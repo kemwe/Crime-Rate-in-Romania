@@ -1,0 +1,663 @@
+﻿Gender,Age,Destination_country1,Citizenship, Environment_origin,County_domicile,Education,Relation_recruiter_1, Form_exploitation
+feminin,16,ROMANIA,roman,rural,Calarasi,1-4 classes,unknown,sexual exploitation
+feminin,18,UK,roman,rural,Dambovita,9-12 classes,pimp,sexual exploitation
+feminin,19,UK,roman,rural,Dambovita,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,19,UK,roman,rural,Prahova,5-8 classes,pimp,sexual exploitation
+feminin,20,ROMANIA,roman,rural,Calarasi,without studies,unknown,sexual exploitation
+feminin,22,FRANTA,roman,urban,Braila,5-8 classes,partner/spouse,sexual exploitation
+feminin,22,UK,roman,urban,Teleorman,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,23,UK,roman,rural,Dambovita,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,23,SPANIA,roman,capital,Bucuresti,1-4 classes,pimp,sexual exploitation
+feminin,24,UK,roman,urban,Bihor,without studies,partner/spouse,sexual exploitation
+feminin,29,UK,roman,rural,Dambovita,9-12 classes,pimp,sexual exploitation
+feminin,11,ROMANIA,roman,urban,Iasi,1-4 classes,unknown,sexual exploitation
+feminin,12,ROMANIA,roman,rural,Buzau,5-8 classes,unknown,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Arges,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,13,ROMANIA,roman,urban,Prahova,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Valcea,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Prahova,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Cluj,5-8 classes,pimp,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Prahova,1-4 classes,pimp,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Tulcea,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Calarasi,1-4 classes,pimp,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Prahova,5-8 classes,partner/spouse,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Cluj,5-8 classes,pimp,sexual exploitation
+feminin,15,ITALIA,roman,urban,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,UK,roman,urban,Prahova,5-8 classes,other relatives,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Calarasi,1-4 classes,pimp,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Braila,1-4 classes,acquaintance-friend,sexual exploitation
+masculin,16,ROMANIA,roman,urban,Caras-Severin,5-8 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Iasi,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Iasi,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Prahova,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Cluj,5-8 classes,partner/spouse,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Olt,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Calarasi,without studies,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Prahova,1-4 classes,other relatives,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Constanta,1-4 classes,unknown,sexual exploitation
+feminin,17,ITALIA,roman,urban,Dolj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,17,SPANIA,roman,rural,Iasi,9-12 classes,unknown,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Iasi,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Mehedinti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ITALIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Vaslui,1-4 classes,unknown,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Tulcea,5-8 classes,partner/spouse,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Mehedinti,5-8 classes,partner/spouse,sexual exploitation
+feminin,18,ROMANIA,roman,urban,Mehedinti,1-4 classes,partner/spouse,sexual exploitation
+feminin,18,ITALIA,roman,rural,Olt,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,ITALIA,roman,rural,Iasi,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Calarasi,1-4 classes,pimp,sexual exploitation
+feminin,18,ITALIA,roman,urban,Vaslui,9-12 classes,other relatives,sexual exploitation
+feminin,18,ROMANIA,roman,urban,Prahova,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,ITALIA,roman,rural,Calarasi,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Iasi,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,18,ITALIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,19,UK,roman,urban,Teleorman,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,19,IRLANDA,roman,urban,Dolj,1-4 classes,partner/spouse,sexual exploitation
+feminin,19,ROMANIA,roman,urban,Alba,5-8 classes,unknown,sexual exploitation
+feminin,19,ROMANIA,roman,urban,Mehedinti,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,20,UK,roman,urban,Prahova,9-12 classes,pimp,sexual exploitation
+feminin,20,ITALIA,roman,urban,Dolj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,20,ROMANIA,roman,urban,Prahova,9-12 classes,partner/spouse,sexual exploitation
+feminin,21,ITALIA,roman,urban,Galati,9-12 classes,unknown,sexual exploitation
+feminin,21,ITALIA,roman,rural,Olt,5-8 classes,unknown,sexual exploitation
+feminin,21,ITALIA,roman,rural,Galati,5-8 classes,neighbor,sexual exploitation
+feminin,22,UK,roman,rural,Vaslui,5-8 classes,unknown,sexual exploitation
+feminin,22,ITALIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,22,ITALIA,roman,rural,Galati,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,22,ITALIA,roman,rural,Galati,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,22,ROMANIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,23,ROMANIA,roman,rural,Timis,5-8 classes,unknown,sexual exploitation
+feminin,23,ITALIA,roman,rural,Calarasi,5-8 classes,other relatives,sexual exploitation
+feminin,24,ROMANIA,roman,urban,Bihor,5-8 classes,partner/spouse,sexual exploitation
+feminin,24,FINLANDA,roman,rural,Arges,1-4 classes,partner/spouse,sexual exploitation
+feminin,25,UK,roman,urban,Buzau,5-8 classes,unknown,sexual exploitation
+feminin,26,ITALIA,roman,urban,Galati,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,27,ITALIA,roman,urban,Olt,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,28,UK,roman,rural,Caras-Severin,without studies,neighbor,sexual exploitation
+feminin,29,ITALIA,roman,urban,Olt,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,29,ITALIA,roman,rural,Dolj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,29,ROMANIA,roman,rural,Hunedoara,1-4 classes,unknown,sexual exploitation
+feminin,29,FRANTA,roman,rural,Dolj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,30,ROMANIA,roman,urban,Bihor,5-8 classes,pimp,sexual exploitation
+feminin,30,FRANTA,roman,urban,Arges,higher education,unknown,sexual exploitation
+feminin,31,BELGIA,roman,capital,Bucuresti,9-12 classes,partner/spouse,sexual exploitation
+feminin,31,ITALIA,roman,urban,Olt,without studies,acquaintance-friend,sexual exploitation
+feminin,35,ITALIA,roman,urban,Prahova,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,36,ITALIA,roman,urban,Olt,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,37,SPANIA,roman,urban,Valcea,5-8 classes,partner/spouse,sexual exploitation
+feminin,16,UK,roman,urban,Giurgiu,5-8 classes,rude grad I,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Vrancea,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,22,GERMANIA,roman,urban,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,23,BELGIA,roman,urban,Braila,higher education,partner/spouse,sexual exploitation
+feminin,18,GERMANIA,roman,rural,Giurgiu,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,ROMANIA,roman,capital,Bucuresti,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,19,AUSTRIA,roman,urban,Olt,9-12 classes,neighbor,sexual exploitation
+feminin,19,GERMANIA,roman,rural,Calarasi,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,20,GERMANIA,roman,rural,Olt,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,20,GERMANIA,roman,rural,Mures,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,21,GERMANIA,roman,rural,Ialomita,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,23,SPANIA,roman,urban,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,25,GERMANIA,roman,urban,Alba,higher education,partner/spouse,sexual exploitation
+feminin,27,BELGIA,roman,urban,Braila,9-12 classes,pimp,sexual exploitation
+feminin,28,GERMANIA,roman,urban,Botosani,5-8 classes,other relatives,sexual exploitation
+feminin,39,GERMANIA,roman,capital,Bucuresti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,23,GERMANIA,roman,urban,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,19,GERMANIA,roman,urban,Ialomita,9-12 classes,pimp,sexual exploitation
+feminin,21,ROMANIA,roman,urban,Vrancea,9-12 classes,partner/spouse,sexual exploitation
+feminin,22,GERMANIA,roman,urban,Braila,higher education,pimp,sexual exploitation
+feminin,24,SPANIA,roman,urban,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,18,SPANIA,roman,urban,Vaslui,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,BELGIA,roman,urban,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,18,GERMANIA,roman,rural,Galati,5-8 classes,unknown,sexual exploitation
+feminin,18,CEHIA,roman,rural,Constanta,5-8 classes,partner/spouse,sexual exploitation
+feminin,19,GERMANIA,roman,rural,Botosani,9-12 classes,neighbor,sexual exploitation
+feminin,20,SPANIA,roman,capital,Bucuresti,1-4 classes,pimp,sexual exploitation
+feminin,20,SPANIA,roman,urban,Dambovita,9-12 classes,partner/spouse,sexual exploitation
+feminin,20,GERMANIA,roman,urban,Bacau,5-8 classes,partner/spouse,sexual exploitation
+feminin,20,SPANIA,roman,rural,Galati,5-8 classes,partner/spouse,sexual exploitation
+feminin,22,UK,roman,urban,Cluj,9-12 classes,partner/spouse,sexual exploitation
+feminin,22,ELVETIA,roman,urban,Galati,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,22,GERMANIA,roman,rural,Teleorman,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,25,GERMANIA,roman,urban,Teleorman,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,26,SPANIA,roman,rural,Giurgiu,9-12 classes,partner/spouse,sexual exploitation
+feminin,26,GERMANIA,roman,rural,Bihor,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,26,AUSTRIA,roman,urban,Mures,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,28,GERMANIA,roman,rural,Covasna,9-12 classes,unknown,sexual exploitation
+feminin,37,ELVETIA,roman,rural,Galati,5-8 classes,partner/spouse,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Bacau,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,18,AUSTRIA,roman,urban,Prahova,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,13,ROMANIA,roman,urban,Giurgiu,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,13,ROMANIA,roman,rural,Bihor,1-4 classes,acquaintance-friend,sexual exploitation
+masculin,14,ROMANIA,roman,rural,Bihor,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,15,ROMANIA,roman,urban,Bihor,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Vrancea,9-12 classes,acquaintance-friend,sexual exploitation
+masculin,16,ROMANIA,roman,urban,Bihor,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Galati,9-12 classes,partner/spouse,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Constanta,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Calarasi,1-4 classes,pimp,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Galati,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,UK,roman,urban,Botosani,5-8 classes,unknown,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Constanta,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,19,ROMANIA,roman,rural,Constanta,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,19,ROMANIA,roman,rural,Constanta,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,20,ROMANIA,roman,urban,Braila,9-12 classes,pimp,sexual exploitation
+feminin,20,ROMANIA,roman,rural,Arges,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,21,UK,roman,rural,Bacau,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,21,UK,roman,rural,Bacau,5-8 classes,other relatives,sexual exploitation
+feminin,22,ROMANIA,roman,rural,Calarasi,professional,acquaintance-friend,sexual exploitation
+feminin,25,UK,roman,rural,Gorj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,30,UK,roman,rural,Bacau,5-8 classes,other relatives,sexual exploitation
+feminin,36,ROMANIA,roman,urban,Constanta,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,12,ROMANIA,roman,rural,Sibiu,1-4 classes,pimp,sexual exploitation
+feminin,12,ROMANIA,roman,rural,Dambovita,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,13,ROMANIA,roman,rural,Bihor,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Cluj,5-8 classes,rude grad I,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Bacau,1-4 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Maramures,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Maramures,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Galati,1-4 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Calarasi,1-4 classes,rude grad I,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Constanta,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Constanta,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Bistrita-Nasaud,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Dolj,5-8 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Dolj,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Bistrita-Nasaud,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Bistrita-Nasaud,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Bacau,5-8 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Galati,1-4 classes,other relatives,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Gorj,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,15,ROMANIA,roman,urban,Caras-Severin,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Sibiu,5-8 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Dolj,5-8 classes,neighbor,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Iasi,5-8 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Iasi,5-8 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Vrancea,9-12 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Gorj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Suceava,5-8 classes,pimp,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Bihor,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Galati,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Vrancea,5-8 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Galati,1-4 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Tulcea,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Galati,5-8 classes,other relatives,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Galati,5-8 classes,partner/spouse,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Vrancea,5-8 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Galati,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Botosani,9-12 classes,pimp,sexual exploitation
+feminin,16,UK,roman,rural,Neamt,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Vrancea,9-12 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,capital,Bucuresti,5-8 classes,partner/spouse,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Bistrita-Nasaud,5-8 classes,rude grad I,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Harghita,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Dolj,5-8 classes,partner/spouse,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Bacau,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,UK,roman,urban,Maramures,without studies,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Bacau,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Bacau,5-8 classes,partner/spouse,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Olt,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Constanta,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Constanta,1-4 classes,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Arges,5-8 classes,unknown,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Bacau,5-8 classes,partner/spouse,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Iasi,5-8 classes,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Bacau,professional,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Calarasi,1-4 classes,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Dolj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,18,SUEDIA,roman,rural,Dolj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,18,UK,roman,rural,Maramures,without studies,pimp,sexual exploitation
+feminin,18,UK,roman,urban,Braila,5-8 classes,pimp,sexual exploitation
+feminin,18,ROMANIA,roman,urban,Vaslui,9-12 classes,unknown,sexual exploitation
+feminin,18,SPANIA,roman,rural,Dolj,5-8 classes,partner/spouse,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Galati,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,SUEDIA,roman,urban,Bacau,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,18,SUEDIA,roman,urban,Galati,professional,other relatives,sexual exploitation
+feminin,18,BELGIA,roman,urban,Calarasi,5-8 classes,unknown,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Giurgiu,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,18,TURCIA,roman,rural,Olt,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,19,UK,roman,rural,Teleorman,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,19,ITALIA,roman,urban,Neamt,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,20,ROMANIA,roman,urban,Calarasi,without studies,pimp,sexual exploitation
+feminin,20,ROMANIA,roman,rural,Arges,9-12 classes,unknown,sexual exploitation
+feminin,21,UK,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,21,UK,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,21,UK,roman,rural,Sibiu,5-8 classes,partner/spouse,sexual exploitation
+feminin,22,ROMANIA,roman,rural,Caras-Severin,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,23,ROMANIA,roman,urban,Iasi,higher education,unknown,sexual exploitation
+feminin,23,AUSTRIA,roman,urban,Neamt,higher education,acquaintance-friend,sexual exploitation
+feminin,24,ITALIA,roman,urban,Valcea,9-12 classes,unknown,sexual exploitation
+feminin,24,ROMANIA,roman,urban,Buzau,5-8 classes,unknown,sexual exploitation
+feminin,25,BELGIA,roman,rural,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,26,IRLANDA,roman,rural,Vrancea,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,27,UK,roman,urban,Caras-Severin,5-8 classes,unknown,sexual exploitation
+feminin,28,GERMANIA,roman,urban,Salaj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,30,POLONIA,roman,rural,Bihor,9-12 classes,rude grad I,sexual exploitation
+feminin,32,SCOTIA,roman,urban,Prahova,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,33,ROMANIA,roman,rural,Iasi,5-8 classes,unknown,sexual exploitation
+feminin,34,DANEMARCA,roman,urban,Braila,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,19,OLANDA,roman,rural,Iasi,5-8 classes,unknown,sexual exploitation
+feminin,16,UK,roman,urban,Neamt,9-12 classes,other relatives,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Constanta,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Bistrita-Nasaud,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Constanta,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,11,ROMANIA,roman,urban,Bihor,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Arad,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Vrancea,5-8 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Prahova,5-8 classes,pimp,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Arad,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,capital,Bucuresti,1-4 classes,pimp,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Calarasi,1-4 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,capital,Bucuresti,5-8 classes,partner/spouse,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Prahova,1-4 classes,pimp,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Timis,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Calarasi,9-12 classes,unknown,sexual exploitation
+feminin,16,GERMANIA,roman,rural,Dambovita,5-8 classes,neighbor,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Salaj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Mehedinti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Calarasi,5-8 classes,pimp,sexual exploitation
+feminin,17,ROMANIA,roman,urban,Harghita,9-12 classes,partner/spouse,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Iasi,9-12 classes,unknown,sexual exploitation
+feminin,18,SPANIA,roman,urban,Salaj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,19,PORTUGALIA,roman,rural,Teleorman,5-8 classes,unknown,sexual exploitation
+feminin,19,ROMANIA,roman,urban,Mehedinti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,19,ROMANIA,roman,rural,Caras-Severin,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,20,ROMANIA,roman,rural,Vrancea,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,20,UK,roman,rural,Dambovita,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,20,ROMANIA,roman,capital,Bucuresti,5-8 classes,pimp,sexual exploitation
+feminin,20,GERMANIA,roman,rural,Salaj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,21,UK,roman,urban,Timis,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,25,SPANIA,roman,urban,Salaj,9-12 classes,partner/spouse,sexual exploitation
+feminin,31,ROMANIA,roman,capital,Bucuresti,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,32,UK,roman,rural,Maramures,5-8 classes,partner/spouse,sexual exploitation
+feminin,32,GERMANIA,roman,urban,Salaj,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,32,ROMANIA,roman,urban,Salaj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,46,ROMANIA,roman,capital,Bucuresti,5-8 classes,partner/spouse,sexual exploitation
+masculin,18,PORTUGALIA,roman,urban,Botosani,9-12 classes,unknown,exploitation through work
+masculin,19,PORTUGALIA,roman,urban,Botosani,9-12 classes,unknown,exploitation through work
+masculin,23,UK,roman,rural,Botosani,without studies,acquaintance-friend,exploitation through work
+masculin,53,PORTUGALIA,roman,urban,Botosani,9-12 classes,unknown,exploitation through work
+masculin,12,ROMANIA,roman,rural,Brasov,1-4 classes,acquaintance-friend,exploitation through work
+masculin,12,ROMANIA,roman,urban,Dolj,5-8 classes,unknown,exploitation through work
+masculin,13,ROMANIA,roman,rural,Constanta,1-4 classes,acquaintance-friend,exploitation through work
+masculin,16,ROMANIA,roman,urban,Mures,without studies,unknown,exploitation through work
+feminin,19,SPANIA,roman,urban,Dolj,1-4 classes,partner/spouse,exploitation through work
+masculin,21,PORTUGALIA,roman,rural,Dolj,5-8 classes,other relatives,exploitation through work
+masculin,22,UK,roman,rural,Vrancea,9-12 classes,acquaintance-friend,exploitation through work
+feminin,23,SPANIA,roman,urban,Cluj,9-12 classes,partner/spouse,exploitation through work
+masculin,24,ROMANIA,roman,urban,Dambovita,9-12 classes,acquaintance-friend,exploitation through work
+masculin,24,UK,roman,rural,Vrancea,5-8 classes,acquaintance-friend,exploitation through work
+masculin,28,ITALIA,roman,rural,Brasov,without studies,other relatives,exploitation through work
+masculin,46,PORTUGALIA,roman,rural,Arad,5-8 classes,unknown,exploitation through work
+masculin,52,GERMANIA,roman,rural,Mures,9-12 classes,acquaintance-friend,exploitation through work
+masculin,52,UK,roman,rural,Valcea,9-12 classes,unknown,exploitation through work
+masculin,16,UK,roman,rural,Brasov,without studies,unknown,exploitation through work
+masculin,17,UK,roman,rural,Brasov,5-8 classes,unknown,exploitation through work
+masculin,17,UK,roman,rural,Brasov,5-8 classes,unknown,exploitation through work
+masculin,18,UK,roman,rural,Brasov,1-4 classes,unknown,exploitation through work
+masculin,18,UK,roman,rural,Alba,1-4 classes,unknown,exploitation through work
+masculin,18,UK,roman,urban,Bistrita-Nasaud,1-4 classes,acquaintance-friend,exploitation through work
+masculin,19,UK,roman,rural,Brasov,5-8 classes,unknown,exploitation through work
+masculin,19,UK,roman,rural,Brasov,5-8 classes,unknown,exploitation through work
+masculin,20,GERMANIA,roman,urban,Bacau,5-8 classes,acquaintance-friend,exploitation through work
+masculin,21,UK,roman,rural,Vaslui,9-12 classes,unknown,exploitation through work
+masculin,22,UK,roman,rural,Brasov,5-8 classes,unknown,exploitation through work
+masculin,23,GERMANIA,roman,rural,Bacau,9-12 classes,unknown,exploitation through work
+masculin,23,UK,roman,rural,Vrancea,1-4 classes,acquaintance-friend,exploitation through work
+masculin,23,UK,roman,rural,Valcea,9-12 classes,unknown,exploitation through work
+masculin,24,UK,roman,rural,Bacau,5-8 classes,acquaintance-friend,exploitation through work
+masculin,26,UK,roman,rural,Vrancea,without studies,acquaintance-friend,exploitation through work
+masculin,26,UK,roman,urban,Calarasi,1-4 classes,acquaintance-friend,exploitation through work
+masculin,27,UK,roman,urban,Valcea,9-12 classes,unknown,exploitation through work
+masculin,28,GERMANIA,roman,rural,Galati,9-12 classes,other relatives,exploitation through work
+masculin,29,UK,roman,urban,Hunedoara,5-8 classes,acquaintance-friend,exploitation through work
+masculin,29,UK,roman,rural,Calarasi,1-4 classes,acquaintance-friend,exploitation through work
+masculin,30,UK,roman,urban,Neamt,9-12 classes,acquaintance-friend,exploitation through work
+masculin,32,UK,roman,urban,Bistrita-Nasaud,9-12 classes,acquaintance-friend,exploitation through work
+masculin,33,ROMANIA,roman,rural,Arges,1-4 classes,unknown,exploitation through work
+masculin,34,UK,roman,rural,Brasov,1-4 classes,unknown,exploitation through work
+masculin,34,UK,roman,urban,Bistrita-Nasaud,1-4 classes,acquaintance-friend,exploitation through work
+masculin,34,UK,roman,rural,Prahova,1-4 classes,acquaintance-friend,exploitation through work
+masculin,36,UK,roman,rural,Brasov,1-4 classes,unknown,exploitation through work
+masculin,37,UK,roman,rural,Vrancea,5-8 classes,acquaintance-friend,exploitation through work
+masculin,37,GERMANIA,roman,rural,Alba,professional,unknown,exploitation through work
+masculin,37,UK,roman,rural,Vrancea,5-8 classes,acquaintance-friend,exploitation through work
+masculin,38,UK,roman,rural,Vrancea,without studies,partner/spouse,exploitation through work
+masculin,39,UK,roman,rural,Galati,5-8 classes,acquaintance-friend,exploitation through work
+masculin,40,UK,roman,rural,Vrancea,1-4 classes,acquaintance-friend,exploitation through work
+masculin,40,UK,roman,urban,Bistrita-Nasaud,without studies,acquaintance-friend,exploitation through work
+masculin,40,UK,roman,rural,Valcea,9-12 classes,unknown,exploitation through work
+masculin,40,UK,roman,rural,Bistrita-Nasaud,1-4 classes,acquaintance-friend,exploitation through work
+masculin,41,UK,roman,rural,Vrancea,1-4 classes,acquaintance-friend,exploitation through work
+masculin,41,UK,roman,rural,Brasov,5-8 classes,unknown,exploitation through work
+masculin,41,UK,roman,urban,Bistrita-Nasaud,without studies,acquaintance-friend,exploitation through work
+masculin,41,UK,roman,rural,Valcea,9-12 classes,unknown,exploitation through work
+masculin,41,GERMANIA,roman,rural,Vaslui,5-8 classes,unknown,exploitation through work
+feminin,41,GERMANIA,roman,rural,Vaslui,5-8 classes,unknown,exploitation through work
+masculin,42,UK,roman,rural,Olt,9-12 classes,unknown,exploitation through work
+masculin,43,GERMANIA,roman,rural,Mures,professional,acquaintance-friend,exploitation through work
+masculin,43,UK,roman,rural,Valcea,9-12 classes,unknown,exploitation through work
+masculin,43,UK,roman,urban,Vrancea,higher education,acquaintance-friend,exploitation through work
+masculin,44,UK,roman,rural,Vrancea,1-4 classes,acquaintance-friend,exploitation through work
+masculin,45,UK,roman,rural,Vrancea,higher education,acquaintance-friend,exploitation through work
+feminin,45,GERMANIA,roman,rural,Vaslui,5-8 classes,unknown,exploitation through work
+masculin,46,GERMANIA,roman,rural,Vaslui,5-8 classes,unknown,exploitation through work
+feminin,46,GERMANIA,roman,rural,Vaslui,5-8 classes,unknown,exploitation through work
+masculin,46,UK,roman,rural,Vrancea,5-8 classes,acquaintance-friend,exploitation through work
+masculin,46,GERMANIA,roman,rural,Vaslui,5-8 classes,unknown,exploitation through work
+masculin,47,UK,roman,urban,Valcea,9-12 classes,unknown,exploitation through work
+masculin,48,UK,roman,urban,Valcea,professional,unknown,exploitation through work
+masculin,48,UK,roman,rural,Brasov,professional,unknown,exploitation through work
+masculin,48,UK,roman,rural,Prahova,5-8 classes,acquaintance-friend,exploitation through work
+masculin,49,UK,roman,urban,Valcea,9-12 classes,unknown,exploitation through work
+masculin,49,UK,roman,urban,Hunedoara,5-8 classes,acquaintance-friend,exploitation through work
+masculin,49,UK,roman,urban,Valcea,9-12 classes,unknown,exploitation through work
+masculin,50,UK,roman,urban,Valcea,9-12 classes,unknown,exploitation through work
+masculin,50,UK,roman,urban,Hunedoara,professional,acquaintance-friend,exploitation through work
+masculin,50,UK,roman,rural,Vrancea,9-12 classes,acquaintance-friend,exploitation through work
+masculin,53,GERMANIA,roman,urban,Alba,professional,acquaintance-friend,exploitation through work
+masculin,65,ROMANIA,roman,urban,Alba,5-8 classes,acquaintance-friend,exploitation through work
+masculin,26,CIPRU,roman,urban,Bihor,9-12 classes,acquaintance-friend,exploitation through work
+masculin,27,CIPRU,roman,rural,Bihor,professional,acquaintance-friend,exploitation through work
+masculin,29,UK,roman,urban,Braila,5-8 classes,acquaintance-friend,exploitation through work
+masculin,35,UK,roman,urban,Braila,9-12 classes,acquaintance-friend,exploitation through work
+masculin,49,UK,roman,rural,Galati,1-4 classes,acquaintance-friend,exploitation through work
+feminin,13,ROMANIA,roman,capital,Bucuresti,5-8 classes,partner/spouse,begging
+feminin,13,ITALIA,roman,urban,Dolj,1-4 classes,unknown,begging
+masculin,13,ROMANIA,roman,rural,Calarasi,without studies,other relatives,begging
+feminin,15,FRANTA,roman,rural,Sibiu,5-8 classes,partner/spouse,begging
+feminin,15,SPANIA,roman,urban,Olt,5-8 classes,acquaintance-friend,begging
+feminin,17,AUSTRIA,roman,rural,Arges,5-8 classes,acquaintance-friend,begging
+feminin,17,FRANTA,roman,rural,Dolj,1-4 classes,partner/spouse,begging
+masculin,18,SUEDIA,roman,rural,Galati,without studies,acquaintance-friend,begging
+feminin,19,ROMANIA,roman,rural,Cluj,without studies,partner/spouse,begging
+feminin,21,SPANIA,roman,rural,Bihor,without studies,acquaintance-friend,begging
+masculin,22,ITALIA,roman,rural,Sibiu,without studies,unknown,begging
+masculin,23,SPANIA,roman,rural,Bihor,without studies,other relatives,begging
+feminin,25,GERMANIA,roman,urban,Sibiu,1-4 classes,partner/spouse,begging
+masculin,25,GERMANIA,roman,urban,Covasna,1-4 classes,acquaintance-friend,begging
+masculin,26,ITALIA,roman,urban,Sibiu,without studies,unknown,begging
+feminin,28,SUEDIA,roman,rural,Bacau,1-4 classes,unknown,begging
+masculin,29,ITALIA,roman,urban,Sibiu,without studies,acquaintance-friend,begging
+masculin,38,ITALIA,roman,urban,Teleorman,9-12 classes,acquaintance-friend,begging
+feminin,41,FRANTA,roman,urban,Covasna,5-8 classes,acquaintance-friend,begging
+feminin,43,BELGIA,roman,rural,Sibiu,1-4 classes,unknown,begging
+masculin,44,SUEDIA,roman,urban,Bacau,professional,neighbor,begging
+masculin,46,SUEDIA,roman,urban,Gorj,5-8 classes,unknown,begging
+masculin,47,SUEDIA,roman,rural,Gorj,5-8 classes,unknown,begging
+masculin,51,ITALIA,roman,rural,Sibiu,1-4 classes,unknown,begging
+masculin,54,SPANIA,roman,urban,Vaslui,5-8 classes,unknown,begging
+masculin,64,ITALIA,roman,rural,Teleorman,without studies,rude grad I,begging
+feminin,10,ROMANIA,roman,urban,Neamt,1-4 classes,unknown,sexual exploitation
+masculin,9,ROMANIA,roman,rural,Bacau,1-4 classes,neighbor,sexual exploitation
+masculin,9,ROMANIA,roman,rural,Bacau,without studies,neighbor,sexual exploitation
+masculin,11,ROMANIA,roman,urban,Bacau,5-8 classes,neighbor,sexual exploitation
+feminin,11,ROMANIA,roman,rural,Bacau,1-4 classes,neighbor,sexual exploitation
+masculin,11,ROMANIA,roman,rural,Bacau,1-4 classes,neighbor,sexual exploitation
+masculin,11,ROMANIA,roman,urban,Sibiu,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,12,ROMANIA,roman,rural,Arges,5-8 classes,rude grad I,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Sibiu,1-4 classes,unknown,sexual exploitation
+feminin,13,ROMANIA,roman,urban,Sibiu,5-8 classes,unknown,sexual exploitation
+feminin,13,ROMANIA,roman,urban,Timis,1-4 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Bacau,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Arges,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Alba,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Dolj,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Ialomita,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,15,ROMANIA,roman,rural,Bihor,5-8 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Prahova,9-12 classes,rude grad I,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Buzau,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Buzau,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Brasov,5-8 classes,unknown,sexual exploitation
+masculin,16,ROMANIA,roman,rural,Alba,5-8 classes,unknown,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Caras-Severin,5-8 classes,unknown,sexual exploitation
+feminin,18,ROMANIA,roman,rural,Brasov,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,10,ROMANIA,roman,urban,Sibiu,1-4 classes,unknown,sexual exploitation
+masculin,10,ROMANIA,roman,urban,Sibiu,without studies,neighbor,sexual exploitation
+feminin,10,ROMANIA,roman,urban,Neamt,9-12 classes,rude grad I,sexual exploitation
+masculin,10,ROMANIA,roman,urban,Sibiu,without studies,neighbor,sexual exploitation
+feminin,12,ROMANIA,roman,urban,Bacau,1-4 classes,neighbor,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Dambovita,5-8 classes,unknown,sexual exploitation
+masculin,13,ROMANIA,roman,capital,Bucuresti,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,13,ROMANIA,roman,capital,Bucuresti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Salaj,9-12 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,capital,Bucuresti,5-8 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Dolj,5-8 classes,unknown,sexual exploitation
+feminin,14,ROMANIA,roman,rural,Vrancea,5-8 classes,acquaintance-friend,sexual exploitation
+masculin,14,ROMANIA,roman,capital,Bucuresti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Timis,5-8 classes,unknown,sexual exploitation
+feminin,15,ROMANIA,roman,urban,Alba,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Bacau,9-12 classes,partner/spouse,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Dolj,9-12 classes,unknown,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Arges,9-12 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,urban,Dolj,5-8 classes,partner/spouse,sexual exploitation
+masculin,16,ROMANIA,roman,capital,Bucuresti,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,16,ROMANIA,roman,rural,Bacau,9-12 classes,partner/spouse,sexual exploitation
+feminin,17,ROMANIA,roman,rural,Cluj,5-8 classes,unknown,sexual exploitation
+masculin,13,ROMANIA,roman,rural,Sibiu,1-4 classes,acquaintance-friend,theft
+feminin,15,ROMANIA,roman,urban,Alba,1-4 classes,acquaintance-friend,theft
+feminin,17,ROMANIA,roman,rural,Alba,9-12 classes,unknown,theft
+masculin,19,UK,roman,rural,Brasov,without studies,unknown,theft
+masculin,32,UK,roman,rural,Brasov,without studies,acquaintance-friend,theft
+masculin,32,IRLANDA,roman,rural,Hunedoara,9-12 classes,unknown,theft
+masculin,58,GERMANIA,roman,rural,Covasna,1-4 classes,neighbor,theft
+feminin,60,GERMANIA,roman,rural,Covasna,1-4 classes,neighbor,theft
+feminin,14,ROMANIA,roman,urban,Timis,1-4 classes,acquaintance-friend,attempt
+feminin,15,ROMANIA,roman,rural,Caras-Severin,1-4 classes,acquaintance-friend,attempt
+feminin,17,ROMANIA,roman,urban,Caras-Severin,5-8 classes,acquaintance-friend,attempt
+feminin,20,UK,roman,urban,Prahova,5-8 classes,pimp,attempt
+feminin,16,ROMANIA,roman,rural,Dambovita,9-12 classes,acquaintance-friend,attempt
+feminin,17,ITALIA,roman,rural,Dolj,5-8 classes,partner/spouse,attempt
+feminin,23,UK,roman,rural,Covasna,5-8 classes,unknown,attempt
+feminin,53,SUEDIA,roman,rural,Constanta,without studies,acquaintance-friend,attempt
+feminin,13,ROMANIA,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,13,ROMANIA,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Sibiu,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,15,ROMANIA,roman,rural,Suceava,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,14,ROMANIA,roman,urban,Neamt,1-4 classes,acquaintance-friend,sexual exploitation
+feminin,20,ROMANIA,roman,rural,Bacau,higher education,unknown,sexual exploitation
+feminin,30,AUSTRIA,roman,capital,Bucuresti,higher education,partner/spouse,sexual exploitation
+feminin,33,BELGIA,roman,urban,Galati,5-8 classes,acquaintance-friend,sexual exploitation
+feminin,35,UK,roman,rural,Neamt,9-12 classes,acquaintance-friend,sexual exploitation
+masculin,42,UK,roman,rural,Bacau,5-8 classes,unknown,exploitation through work
+masculin,47,UK,roman,urban,Bacau,5-8 classes,acquaintance-friend,exploitation through work
+feminin,48,UK,roman,urban,Bacau,professional,acquaintance-friend,exploitation through work
+feminin,16,ITALIA,roman,rural,Mures,1-4 classes,acquaintance-friend,exploitation through work
+feminin,17,ITALIA,roman,urban,Timis,9-12 classes,acquaintance-friend,exploitation through work
+masculin,21,UK,roman,urban,Valcea,9-12 classes,acquaintance-friend,exploitation through work
+masculin,29,IRLANDA,roman,rural,Valcea,5-8 classes,acquaintance-friend,exploitation through work
+masculin,21,UK,roman,urban,Constanta,without studies,other relatives,exploitation through work
+masculin,23,UNGARIA,roman,urban,Caras-Severin,5-8 classes,acquaintance-friend,exploitation through work
+masculin,31,UK,roman,urban,Arad,5-8 classes,acquaintance-friend,exploitation through work
+masculin,34,UK,roman,urban,Constanta,1-4 classes,other relatives,exploitation through work
+feminin,13,ROMANIA,roman,rural,Sibiu,without studies,neighbor,other situations
+feminin,18,ROMANIA,roman,urban,Timis,5-8 classes,acquaintance-friend,attempt
+feminin,13,ROMANIA,roman,rural,Tulcea,1-4 classes,rude grad I,attempt
+feminin,16,ROMANIA,roman,urban,Alba,5-8 classes,acquaintance-friend,attempt
+masculin,16,ROMANIA,roman,urban,Alba,5-8 classes,acquaintance-friend,attempt
+feminin,16,ROMANIA,roman,rural,Bacau,5-8 classes,unknown,attempt
+feminin,16,ROMANIA,roman,rural,Dolj,5-8 classes,acquaintance-friend,attempt
+feminin,17,ROMANIA,roman,rural,Galati,1-4 classes,acquaintance-friend,attempt
+feminin,17,UK,roman,rural,Galati,9-12 classes,unknown,attempt
+feminin,18,ROMANIA,roman,urban,Prahova,5-8 classes,acquaintance-friend,attempt
+feminin,18,GERMANIA,roman,rural,Galati,9-12 classes,acquaintance-friend,attempt
+feminin,18,ROMANIA,roman,rural,Gorj,5-8 classes,acquaintance-friend,attempt
+feminin,21,ROMANIA,roman,urban,Constanta,1-4 classes,acquaintance-friend,attempt
+feminin,23,UK,roman,urban,Bihor,9-12 classes,unknown,attempt
+feminin,12,ROMANIA,roman,rural,Tulcea,1-4 classes,acquaintance-friend,attempt
+feminin,16,SPANIA,roman,urban,Constanta,5-8 classes,rude grad I,attempt
+feminin,10,ROMANIA,roman,urban,Timis,without studies,unknown,attempt
+masculin,59,SUEDIA,roman,rural,Constanta,without studies,acquaintance-friend,attempt
+feminin,18,ROMANIA,strain,urban,NU ESTE CAZUL,professional,acquaintance-friend,attempt
+masculin,24,GERMANIA,roman,rural,Constanta,1-4 classes,acquaintance-friend,attempt
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
